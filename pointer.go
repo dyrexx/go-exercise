@@ -5,11 +5,19 @@ import "fmt"
 func main() {
 	x := 8
 
-	y := &x
+	// y := &x
 
-	fmt.Println(*y)
+	// fmt.Println(*y)
 
-	*y = 4
+	// *y = 4
 
-	fmt.Println(*y)
+	// fmt.Println(*y)
+
+	change(&x)
+
+	fmt.Println(x)
+}
+
+func change(a *int) {
+	*a = 6
 }
