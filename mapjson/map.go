@@ -1,8 +1,19 @@
 package main
 
-import "fmt"
+// import "fmt"
 
-func main() {
-	myMap := map[string]int{}
-	fmt.Println(myMap)
-}
+// func main() {
+// 	// points := map[string]int{}
+// 	// points["Khanh"] = 1
+// 	// points["Nhat"] = 2
+// 	// points["Khanh"] = 3
+
+// 	// fmt.Println(points)
+
+// 	tho := map[string]interface{}{
+// 		"name": "Tho rung",
+// 	}
+
+// 	fmt.Println(tho)
+
+// }
