@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func swap2() {
 	a, b := 4, 5
 	fmt.Println("Before: ", a, b)
 	// Su dung bien tam

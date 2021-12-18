@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func chanle() {
 
 	// Cách 1: chia lấy dư
 

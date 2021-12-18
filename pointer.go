@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func pointer() {
 	x := 8
 
 	// y := &x
